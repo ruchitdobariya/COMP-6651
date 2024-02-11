@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/COMP-6651/static/css/main.100cc39f.chunk.css",
+    "main.js": "/COMP-6651/static/js/main.e939eb56.chunk.js",
+    "main.js.map": "/COMP-6651/static/js/main.e939eb56.chunk.js.map",
+    "runtime-main.js": "/COMP-6651/static/js/runtime-main.f34d5121.js",
+    "runtime-main.js.map": "/COMP-6651/static/js/runtime-main.f34d5121.js.map",
+    "static/js/2.31569409.chunk.js": "/COMP-6651/static/js/2.31569409.chunk.js",
+    "static/js/2.31569409.chunk.js.map": "/COMP-6651/static/js/2.31569409.chunk.js.map",
+    "static/js/3.902cda6e.chunk.js": "/COMP-6651/static/js/3.902cda6e.chunk.js",
+    "static/js/3.902cda6e.chunk.js.map": "/COMP-6651/static/js/3.902cda6e.chunk.js.map",
+    "index.html": "/COMP-6651/index.html",
+    "precache-manifest.02501cf50f3960e22377c436d11abf36.js": "/COMP-6651/precache-manifest.02501cf50f3960e22377c436d11abf36.js",
+    "service-worker.js": "/COMP-6651/service-worker.js",
+    "static/css/main.100cc39f.chunk.css.map": "/COMP-6651/static/css/main.100cc39f.chunk.css.map",
+    "static/js/2.31569409.chunk.js.LICENSE.txt": "/COMP-6651/static/js/2.31569409.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f34d5121.js",
+    "static/js/2.31569409.chunk.js",
+    "static/css/main.100cc39f.chunk.css",
+    "static/js/main.e939eb56.chunk.js"
+  ]
+}
